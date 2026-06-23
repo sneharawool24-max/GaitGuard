@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="GaitGuard_poster.jpeg" width="900">
-</p>
 # GaitGuard
 
 ## Intelligent Gait Recognition & User Authentication System
